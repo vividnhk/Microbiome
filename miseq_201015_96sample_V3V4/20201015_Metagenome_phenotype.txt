@@ -1,0 +1,98 @@
+sample id	bodyNegativesite	sex	age	area	DNA prep	visual examination 	Enterococcus faecium	Salmonella spp.	Salmonella spp. (Group B)	Salmonella spp. (Group C)	Salmonella spp. (Group D)	Shigella spp.	Vibrio app.	Campylobacter spp.	E. coli O157:H7	Verocytotoxin-producing E. coli	Yersinia enterocolitica	Aeromonas spp.	Clostridium difficile toxin B	Clostridium perfringens	E. coli	Clostridium difficile	Klebsiella pneumoniae	Gram positive cocci	Gram positive bacilli	Mycoplasma Ab	Mycoplasma pneumoniae IgM	
+#q2:types	categorical	categorical	numeric	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	
+V3V4_1	Stool	F	55	경남 하동	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_2	Stool	F	25	경남 김해	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_3	Stool	M	26	경남 김해	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_4	Stool	M	19	경남 김해	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_5	Stool	F	55	경남 밀양	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_6	Stool	M	10	인천	resin	-	-	Positive	-	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_7	Stool	M	12	충남 천안	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	Positive	Positive	-	-	
+V3V4_8	Stool	M	21	서울	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_9	Stool	F	3	인천	resin	greenish stool	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_10	Stool	F	3	인천	resin	-	-	Positive	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_11	Stool	M	84	경남 사천	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_12	Stool	M	9	인천	resin	-	-	Positive	-	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_13	Stool	M	84	경기 성남	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_14	Stool	M	59	대구	resin	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Positive	-	-	-	-	
+V3V4_15	Stool	M	39	인천	resin	-	-	Positive	-	-	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_16	Stool	M	21	서울	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_17	Stool	M	84	경기 성남	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_18	Stool	F	88	충북 청주	resin	bloody stool	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_19	Stool	M	83	충북 청주	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_20	Stool	M	54	경기 고양	resin	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_21	Stool	F	55	경남 하동	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_22	Stool	F	25	경남 김해	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_23	Stool	M	26	경남 김해	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_24	Stool	M	19	경남 김해	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_25	Stool	F	55	경남 밀양	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_26	Stool	M	10	인천	resin	-	-	Positive	-	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_27	Stool	M	12	충남 천안	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	Positive	Positive	-	-	
+V3V4_28	Stool	M	21	서울	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_29	Stool	F	3	인천	resin	greenish stool	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_30	Stool	F	3	인천	resin	-	-	Positive	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_31	Stool	M	84	경남 사천	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_32	Stool	M	9	인천	resin	-	-	Positive	-	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_33	Stool	M	84	경기 성남	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_34	Stool	M	59	대구	resin	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Positive	-	-	-	-	
+V3V4_35	Stool	M	39	인천	resin	-	-	Positive	-	-	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_36	Stool	M	21	서울	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_37	Stool	M	84	경기 성남	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_38	Stool	F	88	충북 청주	resin	bloody stool	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_39	Stool	M	83	충북 청주	resin	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_40	Stool	M	54	경기 고양	resin	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_41	Stool	M	31	전남 고흥	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	Negative	Negative	Negative	Negative	Negative	Negative	Negative	-	-	-	-	-	-	-	
+V3V4_42	Stool	M	69	서울	MagNA Pure	-	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_43	Stool	F	4	경기 김포	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	Negative	Negative	Negative	Negative	Negative	Negative	Negative	-	-	-	-	-	-	-	
+V3V4_44	Stool	F	74	서울	MagNA Pure	-	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_45	Stool	F	3	부산	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_46	Stool	M	67	경남 하동	MagNA Pure	-	-	Positive	-	Positive	-	Negative	Negative	-	-	-	-	-	-	Positive	-	-	-	-	-	-	-	
+V3V4_47	Stool	F	7	부산	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_48	Stool	M	72	경북 포항	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_49	Stool	F	18	광주	MagNA Pure	-	-	Positive	-	-	-	Negative	Negative	Positive	Negative	Negative	Negative	Negative	Negative	Negative	-	-	-	-	-	-	-	
+V3V4_50	Stool	F	4	인천	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	Negative	Negative	Negative	Negative	Negative	Negative	Negative	-	-	-	-	-	Positive	-	
+V3V4_51	Stool	F	89	전북 전주	MagNA Pure	-	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_52	Stool	M	74	전북 전주	MagNA Pure	-	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_53	Stool	F	0	부산	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_54	Stool	M	47	부산	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	Negative	Negative	Negative	Negative	Negative	Negative	Negative	-	-	-	-	-	-	-	
+V3V4_55	Stool	F	92	전북 전주	MagNA Pure	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Positive	-	-	-	-	-	-	
+V3V4_56	Stool	M	1	경남 진주	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_57	Stool	F	84	전북 전주	MagNA Pure	-	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_58	Stool	M	79	전북 전주	MagNA Pure	-	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_59	Stool	M	71	경기 안산	MagNA Pure	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_60	Stool	M	2	대구	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_61	Stool	M	4	인천	MagNA Pure	-	-	Negative	Positive	-	-	Negative	Negative	Negative	Negative	Negative	Negative	Negative	Negative	Negative	-	-	-	-	-	-	-	
+V3V4_62	Stool	M	9	인천	MagNA Pure	-	-	Positive	-	Positive	-	Negative	Negative	Negative	Negative	Negative	Negative	Negative	Negative	Negative	-	-	-	-	-	-	-	
+V3V4_63	Stool	F	78	경북 포항	MagNA Pure	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Positive	-	-	-	-	
+V3V4_64	Stool	M	71	전북 전주	MagNA Pure	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_65	Stool	M	11	인천	MagNA Pure	-	-	Positive	-	-	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_66	Stool	M	4	인천	MagNA Pure	-	-	Positive	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_67	Stool	F	64	경기 안산	MagNA Pure	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_68	Stool	M	87	경남 사천	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_69	Stool	F	7	충남 천안	MagNA Pure	-	-	Positive	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_70	Stool	F	7	전남 목포	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_71	Stool	F	2	경남 진주	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_72	Stool	M	5	인천	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_73	Stool	F	83	대구	MagNA Pure	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Positive	-	-	-	-	
+V3V4_74	Stool	F	2	경남 진주	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_75	Stool	F	2	경남 진주	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_76	Stool	M	66	경북 영주	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_77	Stool	F	89	대구	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	Negative	-	-	-	-	-	-	-	-	
+V3V4_78	Stool	F	56	인천	MagNA Pure	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Negative	-	-	-	-	-	
+V3V4_79	Stool	M	77	부산	MagNA Pure	-	-	-	-	-	-	-	-	-	-	-	-	-	Negative	-	-	Positive	-	-	-	-	-	
+V3V4_80	Stool	M	87	대구	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	Negative	-	-	-	-	-	-	-	-	
+V3V4_81	Stool	F	80	서울	MagNA Pure	-	-	-	-	-	-	-	-	-	-	-	-	-	Negative	-	-	Negative	-	-	-	-	-	
+V3V4_82	Stool	F	55	인천	MagNA Pure	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Positive	-	-	-	-	-	
+V3V4_83	Stool	F	75	부산	MagNA Pure	-	-	-	-	-	-	-	-	-	-	-	-	-	Negative	-	-	Negative	-	-	-	-	-	
+V3V4_84	Stool	M	0	대구	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	Positive	
+V3V4_85	Stool swab	F	78	대전	MagNA Pure	-	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_86	Stool swab	M	83	대전	MagNA Pure	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_87	Stool swab	F	88	경북 구미	MagNA Pure	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Positive	-	-	-	-	
+V3V4_88	Stool swab	M	25	경기 양주	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_89	Stool swab	F	30	경기 양주	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_90	Stool swab	F	39	경기 양주	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_91	Stool swab	M	45	경기 양주	MagNA Pure	-	-	Negative	-	-	-	Negative	Negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_92	Stool swab	F	63	경기 의정부	MagNA Pure	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_93	Stool swab	F	75	전북 익산	MagNA Pure	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_94	Stool swab	F	88	전북 익산	MagNA Pure	-	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_95	Stool swab	M	65	경남 김해	MagNA Pure	-	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+V3V4_96	Stool swab	F	78	경기 고양	MagNA Pure	-	Positive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
